@@ -16,7 +16,7 @@ dataSource.books = [
     id: 2,
     name: 'JS Design Patterns',
     price: 15,
-    rating: 9.2,
+    rating: 8.9,
     image: 'images/books/2.jpg',
     details: {
       adults: false,
